@@ -1,0 +1,15 @@
+{
+  "account": {
+    "userName": "y.sugo",
+    "pass": "good1524"
+  },
+  "searchConditions": {
+    "java": "Java",
+    "startDate": "2020/01/01",
+    "endDate": "2020/12/31",
+    "startPrice": "0",
+    "endPrice": "200",
+    "note": "ポテンシャル重視",
+    "inforSkill": "C言語, WebSphere"
+  }
+}

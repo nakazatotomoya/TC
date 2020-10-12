@@ -1,0 +1,6 @@
+# IDE/Editor
+.idea
+
+# Projects
+target/
+bin/
